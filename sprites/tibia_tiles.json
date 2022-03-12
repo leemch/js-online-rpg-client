@@ -1,0 +1,15 @@
+{ "columns":5,
+ "image":"tibiatiles.png",
+ "imageheight":27104,
+ "imagewidth":160,
+ "margin":0,
+ "name":"tibia_tiles",
+ "spacing":0,
+ "tilecount":4235,
+ "tiledversion":"1.8.1",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset",
+ "version":"1.8"
+}
